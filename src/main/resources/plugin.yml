@@ -1,0 +1,6 @@
+name: HardcoreBans
+author: drago
+main: me.drago.hardcorebans.HardcoreBans
+version: 1.3
+commands:
+  hardcore:
